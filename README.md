@@ -37,7 +37,7 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=zhourj99/zhourj99&type=date&legend=top-left)](https://www.star-history.com/?repos=zhourj99%2Fzhourj99&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhourj99/zhourj99&type=Date&legend=top-left)](https://www.star-history.com/#zhourj99/zhourj99&type=date&legend=top-left)
 
 ---
 
