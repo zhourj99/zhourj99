@@ -37,12 +37,8 @@
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?type=date&legend=top-left&repos=zhourj99%2Fzhourj99">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zhourj99/zhourj99&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zhourj99/zhourj99&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zhourj99/zhourj99&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=zhourj99/zhourj99&type=date&legend=top-left)](https://www.star-history.com/?repos=zhourj99%2Fzhourj99&type=date&legend=top-left)
+
+---
 
 </div>
