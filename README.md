@@ -25,8 +25,8 @@
 | 🔍 | 网盘搜索 | [进入](https://zhourj99.github.io/pansou) | - |
 | 📭 | 临时邮箱 | [进入](https://zhourj99.github.io/email) | - |
 | 🤖 | 智能Ai | [进入](https://zhourj99.github.io/ai) | - |
-| 🪜 | 节点订阅 | [原始](https://zhourj99.github.io) | [镜像](https://zhourj99.github.io) |
-| 📺 | IPTV订阅 | [原始](https://zhourj99.github.io) | [镜像](https://zhourj99.github.io) |
+| 🪜 | 节点订阅 | [原始](https://raw.githubusercontent.com/zhourj99/zhourj99/refs/heads/main/0) | [镜像](https://zhourj99.github.io) |
+| 📺 | IPTV订阅 | [原始](https://raw.githubusercontent.com/zhourj99/zhourj99/refs/heads/main/1.m3u) | [镜像](https://zhourj99.github.io) |
 | 🎥 | TVbox订阅 | [原始](https://zhourj99.github.io) | [镜像](https://zhourj99.github.io) |
 | 🎞️ | UZ影视订阅 | [原始](https://zhourj99.github.io) | [镜像](https://zhourj99.github.io) |
 | 📽️ | Cinetry订阅 | [原始](https://zhourj99.github.io) | [镜像](https://zhourj99.github.io) |
