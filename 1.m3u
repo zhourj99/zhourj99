@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="✈️Github@zhourj99" tvg-name="更新时间2026.4.19" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.4.19.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.4.19
-https://pan.baidu.re/view.php/bc7dd417e6776a1e9f6790011c5a54a1.mp4
+https://v2-cp.ssscdn.com/ksc2/d8ljWtrDL96Gqj9yIXy6SWk0z60YgJ-6uNu7_qAvPOrEXAaWMUHK6JLdCEc2nEudKd4zBGaejJCYQP19xhKoRA.mp4?x-kcdn-pid=111636&pkey=AAVSfQeLVSevncEQnsUXC6oRWqHelfM5AAGgc4vMTYXLE_7XGOM1CnwJgjEyn2LvsfqGtCQtaRFyEywuYaCMTTqgu7Zykb02cD_jEos8F3we9ts_c5-A3QXATROXIJswoFc
+#https://pan.baidu.re/view.php/bc7dd417e6776a1e9f6790011c5a54a1.mp4
 #EXTINF:-1 group-title="🔥[rtmp协议]央卫视直播" tvg-name="cctv1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv1
 rtmp://39.108.129.193:1935/cctv1/1sao
 #EXTINF:-1 group-title="🔥[rtmp协议]央卫视直播" tvg-name="cctv2" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",cctv2
