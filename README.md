@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://pan.baidu.re/view.php/53ad68f43d55fcebf0c64de5ac47c2ae.gif" alt="置顶GIF" />
+<img src="https://gh-proxy.org/https://raw.githubusercontent.com/zhourj99/zhourj99/refs/heads/main/zrj/touxiang.gif" alt="置顶GIF" />
 
 ---
 
